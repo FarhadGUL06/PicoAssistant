@@ -1,6 +1,8 @@
 # PicoAssistant
 
-https://ocw.cs.pub.ro/courses/pm/prj2023/danield/gptma
+DEMO: [GPT Multimedia Assistant Demo] (https://ctipub-my.sharepoint.com/personal/farhad_ali_gul_stud_acs_upb_ro/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffarhad%5Fali%5Fgul%5Fstud%5Facs%5Fupb%5Fro%2FDocuments%2Fprezentare%2Emp4&ga=1)
+
+PAGINA WIKI: [GPT Multimedia Assistant Wiki] (https://ocw.cs.pub.ro/courses/pm/prj2023/danield/gptma)
 
 
 GPT Assistant Speaker este un dispozitiv portabil care preia comenzi din telefon, prin bluetooth și produce răspunsul vocal în 2 limbi posibile (engleză sau română, în funcție de modul selectat). 
